@@ -1,8 +1,8 @@
 ---
 title: RemoveBG
 emoji: 🖼️
-colorFrom: "#ff7eb3"
-colorTo: "#ff758c"
+colorFrom: pink
+colorTo: purple
 sdk: static
 sdk_version: "1.0"
 app_file: index.html
